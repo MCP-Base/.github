@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe02b17c-9144-4463-af3b-aaf34af131d7" alt="MCP Base Logo" width="400" />
+  <img width="1243" alt="MCP Base Logo" src="https://github.com/user-attachments/assets/7478ef68-3d9f-4ffa-9b8a-a81b63bea578" />
 </p>
 
 <h2 align="center"><strong>MCP (Model Context Protocol) Base</strong></h2>
